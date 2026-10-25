@@ -1,2 +1,5 @@
 # foam-wikilink-demo
+
 A demonstration of a bug in Foam preview wikilinks.
+
+The following wikilink has inconsistent behaviour: [[Directory]]

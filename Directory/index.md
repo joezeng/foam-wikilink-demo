@@ -1,0 +1,1 @@
+This file can be navigated to using Ctrl+click, but not via the link in the preview.
